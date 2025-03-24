@@ -1,4 +1,4 @@
-[Index](html)
+[Index](html.html)
 
 Qu'est-ce qu'un maquettage d'interface ?
 Un maquettage d'interface est une esquisse ou un modèle de l'interface utilisateur (UI) de l'application.
